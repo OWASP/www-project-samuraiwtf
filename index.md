@@ -2,19 +2,25 @@
 
 layout: col-sidebar
 title: OWASP samuraiwtf
-tags: example-tag
-level: 4
+tags: training appsec pentest
+level: 2
 type: code
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+SamuraiWTF (Web Training and Testing Framework) is a virtual machine, supported on VirtualBox and VMWare, that has been pre-configured to function as a web pen-testing and training environment. We have built the environment using Vagrant and Ansible to provide the easiest and most cross-platform mechanism to build and enhance the environment.
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+SamuraiWTF is built with one primary goal, Training. The environment contains a series of vulnerable applications and the tools necessary to learn how to assess various security risks.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+## Licensing
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+The scripts and resources belonging to this project itself are licensed under the GNU Public License version 3 (GPL3). All software loaded into the VM, including the tools, targets, utilities, and operating system itself retain their original license agreements.
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+## Getting Involved
 
+Contributors are very welcome and the contribution process is standard:
+
+fork this project
+make your contribution
+submit a pull request
+Substantial or Regular contributors may also be brought in as full team members. This includes those who have made substantial contributions to previous versions of SamuraiWTF with the assumption they will continue to do so.

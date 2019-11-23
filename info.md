@@ -1,16 +1,14 @@
 ### samuraiwtf Information
-* [Flagship Project](#)
+* [Incubator Project](#)
 * [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
+* [Version 4.2.2](https://tiny.si/samurai)
 * [Breaker](#)
 
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* [Download](https://tiny.si/samurai)
 
 ### Code Repository
-* [repo](#)
+* [repo](https://github.com/SamuraiWTF/samuraiwtf)
 
 ### Change Log
 * [changes](#)

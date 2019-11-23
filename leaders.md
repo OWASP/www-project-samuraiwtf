@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Kevin Johnson](mailto://kevin@secureideas.com)
+* [Jason Gillam](mailto://jason@secureideas.com)
