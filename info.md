@@ -10,6 +10,3 @@
 ### Code Repository
 * [repo](https://github.com/SamuraiWTF/samuraiwtf)
 
-### Change Log
-* [changes](#)
-

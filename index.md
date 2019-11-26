@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP samuraiwtf
+title: OWASP SamuraiWTF
 tags: training appsec pentest
 level: 2
 type: code
