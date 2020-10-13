@@ -1,7 +1,7 @@
 ### samuraiwtf Information
 * [Incubator Project](#)
 * [Tool Project](#)
-* [Version 4.2.2](https://tiny.si/samurai)
+* [Version 5.0](https://tiny.si/samurai)
 * [Breaker](#)
 
 ### Downloads or Social Links
