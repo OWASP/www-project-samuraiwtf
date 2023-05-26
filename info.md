@@ -1,7 +1,7 @@
 ### samuraiwtf Information
 * [Lab Project](#)
 * [Tool Project](#)
-* [Version 5.0](https://tiny.si/samurai)
+* [Version 5.3](https://tiny.si/samurai)
 * [Breaker](#)
 
 ### Downloads or Social Links
