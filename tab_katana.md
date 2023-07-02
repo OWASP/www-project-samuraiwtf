@@ -4,7 +4,7 @@ displaytext: Katana
 layout:  null
 tab: true
 order: 1
-tags: katana installation tooling samuraiwtf
+tags: samuraiwtf
 ---
 
 # Katana
