@@ -6,6 +6,7 @@
 
 ### Downloads or Social Links
 * [Download](https://tiny.si/samurai)
+* [Bug Reports](https://github.com/SamuraiWTF/samuraiwtf/issues)
 
 ### Code Repository
 * [repo](https://github.com/SamuraiWTF/samuraiwtf)

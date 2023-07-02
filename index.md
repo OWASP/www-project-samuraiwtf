@@ -7,14 +7,16 @@ level: 3
 type: code
 
 ---
+[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7479/badge)](https://bestpractices.coreinfrastructure.org/projects/7479)
+[![OWASP Lab](https://img.shields.io/badge/owasp-lab%20project-f7b73c.svg)](https://www.owasp.org/projects)
 
-SamuraiWTF (Web Training and Testing Framework) is a virtual machine, supported on VirtualBox and VMWare, that has been pre-configured to function as a web pen-testing and training environment. We have built the environment using Vagrant and Ansible to provide the easiest and most cross-platform mechanism to build and enhance the environment.
+SamuraiWTF (Web Training Framework) is not just another vulnerable application - it's a complete, robust framework for learning application security testing. It's a project of OWASP (Open Web Application Security Project) and is designed to help individuals boost their cyber security skills. The framework is based on an Ubuntu-based basebox, making it fairly lightweight and easy to manage.
 
-SamuraiWTF is built with one primary goal, Training. The environment contains a series of vulnerable applications and the tools necessary to learn how to assess various security risks.
+SamuraiWTF is a build system made up of multiple projects.  It is best known for building a virtual machine that has been pre-configured to function as a web penetration testing and training environment. This environment is supported on Hyper-V, VirtualBox, and VMWare. It is built using Vagrant and Ansible to provide the most cross-platform mechanism to build and enhance the learning environment.
 
 ## Licensing
 
-The scripts and resources belonging to this project itself are licensed under the GNU Public License version 3 (GPL3). All software loaded into the VM, including the tools, targets, utilities, and operating system itself retain their original license agreements.
+The scripts and resources belonging to this project itself are licensed under the Lesser GNU Public License version 3 (LGPL3). All software loaded into the VM, including the tools, targets, utilities, and operating system itself retain their original license agreements.
 
 ## Getting Involved
 
