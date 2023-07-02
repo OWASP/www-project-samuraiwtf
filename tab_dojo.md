@@ -4,7 +4,7 @@ displaytext: Dojo
 layout:  null
 tab: true
 order: 2
-tags: samurai-dojo vulnerable target
+tags: samuraiwtf
 ---
 
 ## Samurai-Dojo
