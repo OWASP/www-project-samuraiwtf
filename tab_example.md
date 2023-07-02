@@ -3,7 +3,7 @@ title: Example
 layout:  null
 tab: true
 order: 1
-tags: samuraiwtf
+tags: example
 ---
 
 ## Example
