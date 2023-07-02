@@ -1,5 +1,6 @@
 ---
-title: Dojo
+title: dojo
+displaytext: Dojo
 layout:  null
 tab: true
 order: 2

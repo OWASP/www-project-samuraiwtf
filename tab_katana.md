@@ -1,5 +1,6 @@
 ---
-title: Katana
+title: katana
+displaytext: Katana
 layout:  null
 tab: true
 order: 1
