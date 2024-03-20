@@ -8,7 +8,7 @@ type: code
 
 ---
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7479/badge)](https://bestpractices.coreinfrastructure.org/projects/7479)
-[![OWASP Lab](https://img.shields.io/badge/owasp-lab%20project-f7b73c.svg)](https://www.owasp.org/projects)
+[![OWASP Production](https://img.shields.io/badge/owasp-production%20project-f7b73c.svg)](https://www.owasp.org/projects)
 
 SamuraiWTF (Web Training Framework) is not just another vulnerable application - it's a complete, robust framework for learning application security testing. It's a project of OWASP (Open Web Application Security Project) and is designed to help individuals boost their cyber security skills. The framework is based on an Ubuntu-based basebox, making it fairly lightweight and easy to manage.
 
