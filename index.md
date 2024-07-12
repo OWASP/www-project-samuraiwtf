@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP SamuraiWTF
 tags: samuraiwtf
-level: 3
+level: 3.5
 type: code
 
 ---
