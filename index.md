@@ -5,6 +5,7 @@ title: OWASP SamuraiWTF
 tags: samuraiwtf
 level: 3.5
 type: code
+pitch: SamuraiWTF (Web Training Framework) is a collection of tools and training bundled into a platform to provide a lab environment and training on web application testing.
 
 ---
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7479/badge)](https://bestpractices.coreinfrastructure.org/projects/7479)
