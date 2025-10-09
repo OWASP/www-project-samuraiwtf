@@ -1,0 +1,83 @@
+audience:
+  - breaker
+community:
+  - name: project-samuraiwtf
+    platform: slack
+    url: https://owasp.slack.com/archives/C01524KH43G
+    description: Discussion and support for the OWASP SamuraiWTF project
+leaders:
+  - name: Kevin Johnson
+    email: kevin.johnson@owasp.org
+    github: secureideas
+  - name: Jason Gillam
+    email: jason.gillam@owasp.org
+  - name: Mic Whitehorn-Gillam
+    email: mic.whitehorn@owasp.org
+  - name: Tim Medin
+    email: tim@redsiege.com
+level: 3.5
+license:
+  - GPL-3.0
+  - LGPL-3.0
+  - MIT
+name: OWASP SamuraiWTF
+pitch: SamuraiWTF (Web Training Framework) is a collection of tools and training bundled into a platform to provide a lab environment and training on web
+  application testing.
+repositories:
+  - name: www-project-samuraiwtf
+    url: https://github.com/OWASP/www-project-samuraiwtf
+    description: OWASP Foundation Web Repository
+  - name: dojo-basic-2
+    url: https://github.com/SamuraiWTF/dojo-basic-2
+    description: Dojo Basic 2023 rewrite using Django
+  - name: dvws-node
+    url: https://github.com/SamuraiWTF/dvws-node
+    description: 'Damn Vulnerable Web Services is a vulnerable application with a web service and an API that can be used to learn about webservices/API
+      related vulnerabilities. '
+  - name: katana
+    url: https://github.com/SamuraiWTF/katana
+    description: SamuraiWTF package management tool and interface.
+  - name: kubernetes-goat
+    url: https://github.com/SamuraiWTF/kubernetes-goat
+    description: Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on
+      playground 🚀
+  - name: musashi-js
+    url: https://github.com/SamuraiWTF/musashi-js
+    description: A set of Node applications for demonstrating web security concepts. Created for use in Samurai WTF.
+  - name: mutillidae-docker
+    url: https://github.com/SamuraiWTF/mutillidae-docker
+    description: Dockerized Mutillidae vulnerable php webapp.
+  - name: plugin-labs
+    url: https://github.com/SamuraiWTF/plugin-labs
+    description: A set of labs for classes about extending interception proxy tools such as ZAP or Burp Suite.
+  - name: samurai-dojo
+    url: https://github.com/SamuraiWTF/samurai-dojo
+    description: New revision for Dojo Basic as originally created by meeas.
+  - name: samurai-dojo-docker
+    url: https://github.com/SamuraiWTF/samurai-dojo-docker
+    description: Docker-Compose wrapper for https://github.com/SamuraiWTF/Samurai-Dojo.git - Main development will occur in this fork.
+  - name: Samurai-Dojo-legacy
+    url: https://github.com/SamuraiWTF/Samurai-Dojo-legacy
+    description: Samurai-Dojo is a set of vulnerable web applications for the purpose of web application penetration test training.  They are incorporated
+      in SaumraiWTF.
+  - name: samurai-yaml-options
+    url: https://github.com/SamuraiWTF/samurai-yaml-options
+    description: Vagrant plugin for SamuraiWTF (experimental)
+  - name: samuraiwtf
+    url: https://github.com/SamuraiWTF/samuraiwtf
+    description: The main SamuraiWTF collaborative distro repo.
+  - name: shogun
+    url: https://github.com/SamuraiWTF/shogun
+    description: Utility for deploying multiple container-based lab environments, such as when teaching a class.
+  - name: vapi
+    url: https://github.com/SamuraiWTF/vapi
+    description: vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises.
+  - name: wayfarer
+    url: https://github.com/SamuraiWTF/wayfarer
+    description: Wayfarer Training Federation target organization
+tags:
+  - samuraiwtf
+  - custom-tag-1
+  - custom-tag-2
+type: code
+website: https://owasp.org/www-project-samuraiwtf
